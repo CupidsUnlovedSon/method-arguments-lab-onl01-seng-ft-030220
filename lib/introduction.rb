@@ -3,5 +3,5 @@ def introduction(name)
 end
 
 def introduction_with_language(name, language)
-  puts "Hi, my name is #{name} and im learning to program in #{ruby}"
+  puts "Hi, my name is #{name} and im learning to program in #{language}"
 end
